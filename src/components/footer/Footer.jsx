@@ -21,7 +21,7 @@ function Footer() {
           X</a>
       </div>
       <div className="footer__copy">
-        &copy; 2035 Aman Corp. Site created with React, a bit of GPT for styles and Aman's hard work.
+        &copy; 2035 Aman Corp. Site created with React.
       </div>
     </footer>
   );
